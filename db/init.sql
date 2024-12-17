@@ -1,0 +1,4 @@
+CREATE TABLE gold_price (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    price DECIMAL(10, 2) NOT NULL
+);
